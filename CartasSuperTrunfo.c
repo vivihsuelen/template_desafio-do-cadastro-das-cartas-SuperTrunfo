@@ -71,7 +71,6 @@ int main() {
 
     // Área para exibição dos dados da carta 1 na tela
     printf("============== CARTA 1 ==============\n");
-    printf("------------- Carta 1 ------------\n");
     printf("Estado: %c\n", estado);
     printf("Codigo: %s\n", codigo);
     printf("Cidade: %s\n", cidade);
